@@ -1,0 +1,8 @@
+append - if i apend one string in existing list it adds that value 
+
+insert - in insert if i chose num index with string in list it puts that value in that index 
+
+extend- combines two lists , it dont make new list just change the existing list 
+
+concat - combines two lists, dont change or affect the existing list but makes new list of combined one 
+

@@ -1,0 +1,19 @@
+why python is used 
+for data science 
+database
+websites 
+
+go up to one folder cd folder 
+get back to prev folder - cd .. 
+
+how to create venv virtual environment 
+-> python -m venv env
+
+D:\AI With Python\day 1>env\Scripts\activate
+front slash or backslash will be used based on which slash folder structure is showing 
+
+
+PEP8: 
+Style Guide for python code 
+for clean code and rule based format 
+pip install flake8

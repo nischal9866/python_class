@@ -1,0 +1,11 @@
+double slash 
+
+using double slash (//) removes all back point when doing divide 
+use case 
+if a=10 b=3
+and i do print(a//b)
+instead of 3.333333 only gives value 3 (front value)
+
+
+double abstrict(**)
+if 2**3 it is basically 2 to the power 3 
